@@ -4,6 +4,8 @@ title: 'Los Papeles Constitucionalistas: 1'
 ---
 La primera vez que pensé en que las cosas podían cambiar era muy joven. Tendría, quizás, unos 15 años. Y, para ser completamente sincero con ustedes, busqué una carrera política.
 
+<!--more-->
+
 Como era un joven infante de izquierda, me presenté en todas las casas centrales de los partidos políticos de izquierda de la época: fui al Partido Socialista, fui al PPD, fui a la DC. No pasé por el Partido Radical porque los Radicales estaban muertos hasta que apareció Carlos Maldonado, quien ahora reniega de su pasado de izquierda y vota Rechazo.
 
 En todos lados me dijeron que era muy chico para querer hacer carrera política. En la DC, de hecho, en su sede en Maipú, me dijeron que tenía que ser pariente de alguien para poder tener una carrera. Me decepcioné profundamente del sistema, y decidí, junto con la amiga que me acompañaba, que era mejor hacer cambios desde nuestras trincheras: en la U, en el trabajo, en la casa, en la vida. No en un partido, sucia política partidista que nos amarraba a hacer las cosas como siempre. Esa noche, en casa, soñé con un mundo distinto, uno donde no importaba si era un don nadie (como Rey en la segunda película de Star Wars de la nueva trilogía, El Último Jedi), podía afectar el cambio. Creo que todos nos sentimos así, en la oscuridad de la noche: qué tal si pudiéramos cambiar el mundo a nuestro alrededor? Hacerlo más justo? Más tranquilo? Mejor para nuestros papás, abuelas? Si pudiéramos comprarle una casa a nuestros cuidadores, y simplificarles la vida? Sin haber sido futbolistas? O narcos?
