@@ -55,6 +55,9 @@ baseurl: "/papelesconstitucionalistas"
 
 permalink: /:title/
 
+# adding excerpt separator
+excerpt_separator: <!--more-->
+
 # The release of Jekyll Now that you're using
 version: v1.0.0
 
