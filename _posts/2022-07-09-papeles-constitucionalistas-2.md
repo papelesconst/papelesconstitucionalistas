@@ -26,11 +26,11 @@ La Real Academia Española (que a algunos muchos puristas les gusta utilizar com
 
 > Del lat. natio, -ōnis 'lugar de nacimiento', 'pueblo, tribu'.
 
-_1. f. Conjunto de los habitantes de un país regido por el mismo Gobierno._
+1. _f. Conjunto de los habitantes de un país regido por el mismo Gobierno._
 
 2. f. Territorio de una nación.
 
-**3. f. Conjunto de personas de un mismo origen y que generalmente hablan un mismo idioma y tienen una tradición común.**
+3. **f. Conjunto de personas de un mismo origen y que generalmente hablan un mismo idioma y tienen una tradición común.**
 
 4. f. coloq. p. us. nacimiento (‖ acto de nacer). Ciego de nación.
 
