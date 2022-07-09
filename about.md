@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Algo de mí...
 
-### More Information
+### Los Papeles Constitucionalistas
 
-A place to include any other types of information that you'd like to include about yourself.
+Soy un ciudadano con opinión, y éste es un lugar para dejarla.
 
-### Contact me
+### Contáctame
 
-[email@domain.com](mailto:email@domain.com)
+Si esto despega, quizás ponga un [correo](email@email.com) donde me pueden contactar. Por mientras, pueden ver mi primer [proyecto en Instagram](https://instagram.com/lasparedessihablan).
