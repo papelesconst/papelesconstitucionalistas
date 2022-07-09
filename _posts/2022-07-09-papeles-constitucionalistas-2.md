@@ -14,6 +14,8 @@ En lo práctico, el [documento emanado de la Convención](https://www.chileconve
 
 Y luego, hay diversas menciones respecto de lo que implica la existencia y coexistencia de diversas naciones dentro del Estado chileno.
 
+<!--more-->
+
 Detengámonos un minuto, o varios, a pensar y reflexionar lo que significa que hayan varios pueblos y naciones dentro de un sólo país y bajo un solo Estado.
 
 ![Nos sentamos en el sillón de pensar a pensar, pensar, pensar](https://c.tenor.com/T5VYlpOHtZkAAAAC/blues-clues-steve.gif)
