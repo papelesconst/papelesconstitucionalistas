@@ -25,8 +25,11 @@ La Real Academia Española (que a algunos muchos puristas les gusta utilizar com
 > Del lat. natio, -ōnis 'lugar de nacimiento', 'pueblo, tribu'.
 
 _1. f. Conjunto de los habitantes de un país regido por el mismo Gobierno._
+
 2. f. Territorio de una nación.
+
 **3. f. Conjunto de personas de un mismo origen y que generalmente hablan un mismo idioma y tienen una tradición común.**
+
 4. f. coloq. p. us. nacimiento (‖ acto de nacer). Ciego de nación.
 
 Coloquialmente, por costumbre, hemos asimilado el significado de "pueblo" o "nación" al de "gobierno". Incluso, "Gobierno" con G mayúscula; entendamos que _gobierno_ es una forma de organización republicana, y _Gobierno_ es la materialización de dicha forma (el gobierno de Chile es una república democrática, y el Gobierno de Chile es el Gobierno actual). Por tanto, cada vez que pensamos en _la nación chilena_, pensamos en el conjunto de habitantes del país Chile. Suena lógico, cierto?
