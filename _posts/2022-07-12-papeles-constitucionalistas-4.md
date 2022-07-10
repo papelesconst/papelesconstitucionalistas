@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Los Papeles Constitucionalistas: 3'
+title: 'Los Papeles Constitucionalistas: 4'
 ---
 Se ha hablado harto de las consideraciones de seguridad en la Nueva Constitución, versus la Constitución del Ochenta. Sobre todo, un cambio mayor, es la eliminación del Estado de Excepción Constitucional de Emergencia, que se usó en el gobierno anterior y en el presente en la Araucanía (o Macrozona Sur o Wallmapu), y en el Norte Grande. Esta herramienta constitucional permite que las Fuerzas Armadas tomen control de una zona, delimitada y fija, y pueden intervenir en labores de orden público y seguridad interna; labores que no le corresponden, por defecto y diseño, a dichas instituciones.
 
