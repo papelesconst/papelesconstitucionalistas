@@ -45,4 +45,6 @@ Todo lo que el TC indicó, el año 2018, que era inconstitucional, hoy está _ga
 
 ![Respuesta de Fernando Atria a la pregunta "qué pasa en la NC con el SERNAC financiero?"](https://pbs.twimg.com/media/FXUNUYKXgAYfiQ9?format=jpg&name=900x900)
 
-En corto, con la Nueva Constitución no habrá 
+En corto, con la Nueva Constitución no habrá necesidad de recurrir al TC para validar que el SERNAC pueda defender nuestros derechos como consumidores ante los abusos de los proveedores. Ya sea por las [alzas de precios para los múltiples Cyber Day](https://www.diarioconcepcion.cl/pais/2022/05/30/usuarios-reportan-importante-alza-de-precios-en-el-primer-dia-del-cyberday.html), los reclamos por [la cantidad de proteínas de un yogur](https://www.sernac.cl/portal/619/w3-article-62208.html), o las [ventas atadas en productos financieros](https://www.elmostrador.cl/mercados/2021/08/18/venta-atada-y-proteccion-al-consumidor/), podremos denunciar y habrán sanciones y reparaciones reales frente a los abusos que se intenten cometer. Poniéndonos, dicho sea de paso, en el estándar internacional de protección al consumidor.
+
+Por qué esto es importante? Porque en un país donde prolifera el libre mercado y las empresas pueden proveer todos los bienes y servicios que quieran, tendremos protecciones efectivas ante los abusos. Que, digámoslo, han proliferado ante nosotros.
