@@ -39,5 +39,10 @@ Entonces, los derechos **fundamentales** son los que garantiza la Constitución.
 Y qué dice [la Nueva Constitución](https://www.chileconvencion.cl/wp-content/uploads/2022/07/Texto-CPR-2022.pdf) respecto del SERNAC financiero?
 
 > (art. 81) 1. Toda persona tiene derecho, en su condición de consumidora o usuaria, a la libre elección, a la información veraz, a no ser discriminada, a la seguridad, a la protección de su salud y el medioambiente, a la reparación e indemnización adecuada y a la educación para el consumo responsable.
-> 2. El Estado protegerá el ejercicio de estos derechos, mediante procedimientos eficaces y un órgano con facultades interpretativas, fiscalizadoras, sancionadoras y las demás que le otorgue la ley.
+> 2. El Estado protegerá el ejercicio de estos derechos, mediante procedimientos eficaces y **un órgano con facultades interpretativas, fiscalizadoras, sancionadoras y las demás que le otorgue la ley**.
 
+Todo lo que el TC indicó, el año 2018, que era inconstitucional, hoy está _garantizado en la Nueva Constitución_. Si no me cree, le dejo hasta una foto:
+
+![Respuesta de Fernando Atria a la pregunta "qué pasa en la NC con el SERNAC financiero?"](https://pbs.twimg.com/media/FXUNUYKXgAYfiQ9?format=jpg&name=900x900)
+
+En corto, con la Nueva Constitución no habrá 
